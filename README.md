@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # pyutils
 
 A collection of handy Python utility scripts for everyday development tasks.
@@ -34,5 +35,7 @@ print(file_size("/path/to/file"))
 
 MIT
 
+# TODO: add more error handling
+# TODO: consider async version
 
 # Reformatted
